@@ -10,5 +10,6 @@ class simpleprogram{
 
         // Print the current date
         System.out.println("Today's date is: " + currentDate);
+        System.out.println("hello world ");
     }
 }
